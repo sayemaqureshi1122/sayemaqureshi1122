@@ -65,37 +65,3 @@
   <img src="https://profile-counter.glitch.me/sayemaqureshi1122/count.svg?"  />
 </div>
 
-###
-
-
-<div align="center">
-  <img height="0" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/sayemaqureshi1122/sayemaqureshi1122/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sayemaqureshi1122/count.svg?"  />
-</div>
-
-###
-
-<img align="right" src="https://profile-counter.glitch.me/sayemaqureshi1122/count.svg?"  />
-
-###

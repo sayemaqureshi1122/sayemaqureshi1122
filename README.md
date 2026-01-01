@@ -58,8 +58,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sayemaqureshi1122&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+<h2>🔥 My GitHub Streak</h2>
+
+<img src="https://streak-stats.demolab.com?user=sayemaqureshi1122&theme=dark&hide_border=false&border_radius=5" height="220"/>
+
 </div>
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sayemaqureshi1122/count.svg?"  />

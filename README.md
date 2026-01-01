@@ -67,6 +67,6 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sayemaqureshi1122/count.svg?"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayemaqureshi1122&theme=github-dark" />
 </div>
 
